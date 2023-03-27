@@ -3,7 +3,7 @@ This project is the basic implementation of image classification on Toy dataset 
 
 In this project is main source code that handles learning and saving model. Downloading FashionMNIST dataset.
 
-Then there is models where you can find 3 basic models you can use. 
+Then there is My_models.py where you can find 3 basic models you can use. 
 
 Last is Helper_function.py you can find original file on: https://github.com/mrdbourke/pytorch-deep-learning
 But there are 2 new fuctions. For setup device and to plot multiple images right on top of the file. 

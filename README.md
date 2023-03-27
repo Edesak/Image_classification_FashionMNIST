@@ -1,5 +1,5 @@
 # Image_classification_FashionMNIST
-This project is the basic implementation of image classification. 
+This project is the basic implementation of image classification on Toy dataset FashionMNIST. 
 
 In this project is main source code that handles learning and saving model. Downloading FashionMNIST dataset.
 
